@@ -1,0 +1,25 @@
+{
+  "name": "skku-ban-stat",
+  "version": "0.1.0",
+  "description": "\"# skku-ban-stat\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bansh123/skku-ban-stat.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bansh123/skku-ban-stat/issues"
+  },
+  "homepage": "https://github.com/bansh123/skku-ban-stat#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
